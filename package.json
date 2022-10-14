@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tareq-Islam/rabbitmq-hello-world.git"
+  },
+  "author": "Tareq Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tareq-Islam/rabbitmq-hello-world/issues"
+  },
+  "homepage": "https://github.com/Tareq-Islam/rabbitmq-hello-world#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
